@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\2017510067_ngram\bin\Debug\2017510067_ngram.exe.config
+C:\Users\Lenovo\Desktop\2017510067_ngram\bin\Debug\2017510067_ngram.exe
+C:\Users\Lenovo\Desktop\2017510067_ngram\bin\Debug\2017510067_ngram.pdb
+C:\Users\Lenovo\Desktop\2017510067_ngram\obj\Debug\2017510067_ngram.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\2017510067_ngram\obj\Debug\2017510067_ngram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\2017510067_ngram\obj\Debug\2017510067_ngram.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\2017510067_ngram\obj\Debug\2017510067_ngram.exe
+C:\Users\Lenovo\Desktop\2017510067_ngram\obj\Debug\2017510067_ngram.pdb
